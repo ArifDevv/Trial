@@ -1,1 +1,2 @@
 # Trial
+# LICENSE:ARIF-PREM-1
